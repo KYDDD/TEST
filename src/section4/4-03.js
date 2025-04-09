@@ -7,4 +7,4 @@ function funcEach(func, ...rest) {
 }
 
 //  호출 예시
-funcEach(console.log, 1, 2, 3);
+funcEach(console.log, 2, 3, 4);
